@@ -1,0 +1,50 @@
+[
+    {
+        "id": "kk32kk897hhg55",
+        "name": "Jeep",
+        "description": "The Willys MB and the Ford GPW, both formally called the U.S. Army truck, quarter ton, 4×4, command reconnaissance,commonly known as the Willys Jeep, Jeep, or jeep, and sometimes referred to by its Standard Army vehicle supply number G-503, were highly successful American off road capable, light military utility vehicles. Well over 600,000 were built to a single standardized design, for the United States and the Allied forces in World War II, from 1941 until 1945. This also made it the world's first mass produced four wheel drive car, built in six figure numbers.",
+        "imageName": "jeep"
+    },
+    {
+        "id": "pp32kk887hhg99",
+        "name": "Crusader",
+        "description": "Crusader, in full - Tank, Cruiser Mk VI, Crusader,- also known by its General Staff number A.15, was one of the primary British cruiser tanks during the early part of the Second World War. Over 5,000 tanks were manufactured and they made important contributions to the British victories during the North African campaign. The Crusader only saw active service in Africa but the chassis of the tank was modified to create anti-aircraft, fire support, observation, communication, bulldozer and recovery vehicle variants. note -The British Army Crusader Tank was flawed and unreliable In Combat.",
+        "imageName": "crusader"
+    },
+    {
+        "id": "qq32kk887hhg99",
+        "name": "Comet",
+        "description": "The Comet tank or Tank, Cruiser, Comet I (A34) was a British cruiser tank that first saw use near the end of the Second World War, during the Western Allied invasion of Germany. The Comet was developed from the earlier Cromwell tank with a lower profile, partly-cast turret which mounted the new 77 mm HV gun. This was a smaller version of the 17 pdr anti-tank gun firing the same 76.2 mm (3inch) projectiles, albeit with a lighter charge, and was effective against late-war German tanks, including the Panther and Tiger.[2]",
+        "imageName": "comet"
+    },
+    {
+        "id": "nn32kk897hhg88",
+        "name": "Churchill",
+        "description": "The Tank, Infantry, Mk IV (A22) Churchill was a British infantry tank used in the Second World War, best known for its heavy armour, large longitudinal chassis with all-around tracks with multiple bogies, its ability to climb steep slopes, and its use as the basis of many specialist vehicles. It was one of the heaviest Allied tanks of the war. The origins of the Churchill's design lay in the expectation that war in Europe might be fought in conditions similar to those of the First World War, and thus emphasised the ability to cross difficult ground. The Churchill was hurried into production in order to build up British defences against a possible German invasion. The first vehicles had flaws that had to be overcome before the Churchill was accepted for wide use. After several marks (versions) had been built, a better-armoured specification, the Mark VII, entered service with the British Army. The improved versions performed well in the later stages of the war.",
+        "imageName": "churchill"
+    },
+    {
+        "id": "oo32kk887hhg99",
+        "name": "Tiger",
+        "description": "Tiger 131 is a German Tiger I heavy tank captured by the British Army on 24 April 1943 during Operation Vulcan in Tunisia during World War II. Preserved at The Tank Museum in Bovington in Dorset, England, it is currently the only operational Tiger I in the world. Known to the Allies as the Tiger I, the German model designation was Panzerkampfwagen VI, Tiger I (H1), Sd.Kfz. 181. It was built in Kassel, central Germany; the hull was constructed by Henschel, while the turret was made by Wegmann AG. The tank was completed in February 1943. It was shipped to Tunisia between 12 March and 16 April 1943. The tank was assigned to the Schwere Panzer-Abteilung 504 (German: Heavy Tank Battalion 504) during the Tunisian campaign of the wider war in North Africa. It was placed in No. 1 Company, No. 3 Platoon, as the 1st (platoon commander) tank, giving it tactical number 131 painted on the turret, by which it has come to be known.",
+        "imageName": "tiger131"
+    },
+    {
+        "id": "mm32kk887hhg99",
+        "name": "sixtylber",
+        "description": "The Ordnance BL 60-pounder was a British 5-inch (127 mm) heavy field gun designed in 1903–05 to provide a new capability that had been partially met by the interim QF 4.7 inch gun. It was designed for both horse draft and mechanical traction and served throughout the First World War in the main theatres. It remained in service with British and Commonwealth forces in the inter-war period and in frontline service with British and South African batteries until 1942 being superseded by the BL 4.5-inch medium gun.",
+        "imageName": "sixtylber"
+    },
+     {
+         "id": "ll32kk897hhg99",
+         "name": "Siegegun",
+         "description": "Schwerer Gustav (German pronunciation: 'Heavy Gustav') was a German 80 centimetre railway gun. It was developed in the late 1930s by Krupp in Rügenwalde as siege artillery for the explicit purpose of destroying the main forts of the French Maginot Line, the strongest fortifications in existence at the time. The fully assembled gun weighed nearly 1,350 tonnes (1,490 short tons) and could fire shells weighing 7 t (7.7 short tons) to a range of 47 km (29 mi)",
+         "imageName": "seigegun"
+     },
+     {
+         "id": "rr32kk897iig98",
+         "name": "Panzer4",
+         "description": "The Panzerkampfwagen IV (Pz.Kpfw. IV), commonly known as the Panzer IV, is a German medium tank developed in the late 1930s and used extensively during the Second World War.[8] Its ordnance inventory designation was Sd.Kfz. 161. The Panzer IV was the most numerous German tank and the second-most numerous German fully tracked armoured fighting vehicle of the Second World War; 8,553 Panzer IVs of all versions were built during World War II, only exceeded by the StuG III assault gun with 10,086 vehicles. Its chassis was also used as the base for many other fighting vehicles, including the Sturmgeschütz IV assault gun, the Jagdpanzer IV self-propelled anti-tank gun, the Wirbelwind and Ostwind self-propelled anti-aircraft guns, and the Brummbär self-propelled gun.",
+         "imageName": "panzer4"
+    }
+]

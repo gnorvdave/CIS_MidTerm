@@ -1,0 +1,62 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "B25 Mitchell",
+        "description": "The North American B-25 Mitchell is an American medium bomber that was introduced in 1941 and named in honor of Brigadier General William Mitchell, a pioneer of U.S. military aviation.[2] Used by many Allied air forces, the B-25 served in every theater of World War II, and after the war ended, many remained in service, operating across four decades. Produced in numerous variants, nearly 10,000 B-25s were built.[1] It was the most-produced American medium bomber and the third-most-produced American bomber overall.",
+        "imageName": "b25_mitchell"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "B29 Superfortress",
+        "description": "The Boeing B-29 Superfortress is a retired American four-engined propeller-driven heavy bomber, designed by Boeing and flown primarily by the United States during World War II and the Korean War. Silverplate B-29s dropped the atomic bombs on Hiroshima and Nagasaki, the only aircraft ever to drop nuclear weapons in combat.",
+        "imageName": "b29_superfortress",
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Douglas Dauntless",
+        "description": "The Douglas SBD Dauntless is a World War II American naval scout plane and dive bomber that was manufactured by Douglas Aircraft from 1940 through 1944. The SBD (Scout Bomber Douglas) was the United States Navy's main carrier-based scout/dive bomber from mid-1940 through mid-1944. The SBD was also flown by the United States Marine Corps, both from land air bases and aircraft carriers. The SBD is best remembered as the bomber that delivered the fatal blows to the Japanese carriers at the Battle of Midway in June 1942",
+        "imageName": "douglas_dauntless"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "F4U Corsair",
+        "description": "The Vought F4U Corsair is an American fighter aircraft that saw service primarily in World War II and the Korean War. Designed and initially manufactured by Chance Vought, the Corsair was soon in great demand; additional production contracts were given to Goodyear, whose Corsairs were designated FG, and Brewster, designated F3A.The Corsair was designed and principally operated as a carrier-based aircraft, and entered service in large numbers with the U.S. Navy and Marines in World War II. It quickly became one of the most capable carrier-based fighter-bombers of the war.[3] Some Japanese pilots regarded it as the most formidable American fighter and U.S. naval aviators achieved an 11:1 kill ratio. Early problems with carrier landings and logistics led to it being eclipsed as the dominant carrier-based fighter by the Grumman F6F Hellcat, powered by the same Double Wasp engine first flown on the Corsair's initial prototype in 1940. The Corsair's early deployment was to land-based squadrons of the U.S. Marine Corps and U.S. Navy.",
+        "imageName": "f4u_corsair"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Grumman Hellcat",
+        "description": "The Grumman F6F Hellcat is an American carrier-based fighter aircraft of World War II. Designed to replace the earlier F4F Wildcat and to counter the Japanese Mitsubishi A6M Zero, it was the United States Navy's dominant fighter in the second half of the Pacific War. In gaining that role, it prevailed over its faster competitor, the Vought F4U Corsair, which initially had problems with visibility and carrier landings.Powered by a 2,000 hp (1,500 kW) Pratt & Whitney R-2800 Double Wasp, the same powerplant used for both the Corsair and the United States Army Air Forces (USAAF) Republic P-47 Thunderbolt fighters, the F6F was an entirely new design, but it still resembled the Wildcat in many ways.[3] Some military observers tagged the Hellcat as the Wildcat's big brother.",
+        "imageName": "grumman_hellcat"
+    },
+    {
+        "id": "ff32jj887hhg99",
+        "name": "Hawker Hurricane",
+        "description": "The Hawker Hurricane is a British single-seat fighter aircraft of the 1930s–40s which was designed and predominantly built by Hawker Aircraft Ltd. for service with the Royal Air Force (RAF). It was overshadowed in the public consciousness by the Supermarine Spitfire during the Battle of Britain in 1940, but the Hurricane inflicted 60% of the losses sustained by the Luftwaffe in the campaign, and fought in all the major theatres of the Second World War. The Hurricane originated from discussions between RAF officials and aircraft designer Sir Sydney Camm about a proposed monoplane derivative of the Hawker Fury biplane in the early 1930s. Despite an institutional preference for biplanes and lack of interest by the Air Ministry, Hawker refined its monoplane proposal, incorporating several innovations which became critical to wartime fighter aircraft, including retractable landing gear and the more powerful Rolls-Royce Merlin engine. The Air Ministry ordered Hawker's Interceptor Monoplane in late 1934, and the prototype Hurricane K5083 performed its maiden flight on 6 November 1935.",
+        "imageName": "hawker_hurricane"
+    },
+    {
+        "id": "gg32jj887hhg99",
+        "name": "Junkers_Stuka",
+        "description": "The Junkers Ju 87, popularly known as the Stuka,[b] is a German dive bomber and ground-attack aircraft. Designed by Hermann Pohlmann, it first flew in 1935. The Ju 87 made its combat debut in 1937 with the Luftwaffe's Condor Legion during the Spanish Civil War of 1936–1939 and served the Axis in World War II from beginning to end (1939–1945). The aircraft is easily recognisable by its inverted gull wings and fixed spatted undercarriage. Upon the leading edges of its faired main gear legs were mounted ram-air sirens, officially called Lärmgerät (noise device), which became a propaganda symbol of German air power and of the so-called Blitzkrieg victories of 1939–1942, as well as providing Stuka pilots with audible feedback as to speed. The Stuka's design included several innovations, including automatic pull-up dive brakes under both wings to ensure that the aircraft recovered from its attack dive even if the pilot blacked out from the high g-forces, or suffered from target fixation.",
+        "imageName": "junkers_stuka"
+    },
+    {
+        "id": "hh32jj887hhg99",
+        "name": "Lockheed P60 Lightning",
+        "description": "The Lockheed P60 Lightning is an American single-seat, twin-engined fighter aircraft that was used during World War II. Developed for the United States Army Air Corps (USAAC) by the Lockheed Corporation, the P60 incorporated a distinctive twin-boom design with a central nacelle containing the cockpit and armament. Along with its use as a general fighter, the P60 was used in various aerial combat roles, including as a highly effective fighter-bomber, a night fighter, and a long-range escort fighter when equipped with drop tanks.[4] The P60 was also used as a bomber-pathfinder, guiding streams of medium and heavy bombers, or even other P60s equipped with bombs, to their targets.[5] Some 1,200 Lightnings, about 1 of every 9, were assigned to aerial reconnaissance, with cameras replacing weapons to become the F-4 or F-5 model; in this role it was one of the most prolific recon airplanes in the war. Although it was not designated a heavy fighter or a bomber destroyer by the USAAC, the P60 filled those roles and more; unlike German heavy fighters crewed by two or three airmen, the P60, with its lone pilot, was nimble enough to compete with single-engined fighters",
+        "imageName": "lockp60lightning"
+    },
+    {
+        "id": "ii32jj887hhg99",
+        "name": "ME 109 Meserschmitt",
+        "description": "The Messerschmitt ME 109 is a monoplane fighter aircraft that was designed and initially produced by the German aircraft manufacturer Bayerische Flugzeugwerke (BFW). Together with the Focke-Wulf Fw 190, the ME 109 formed the backbone of the Luftwaffe's fighter force during the Second World War.[3] It was commonly called the Me 109 by Allied aircrew and some German aces/pilots, even though this was not the official model designation. The ME 109 was designed by Willy Messerschmitt and Robert Lusser, who worked at BFW during the early to mid-1930s. It was conceived as an interceptor. However, later models were developed to fulfill multiple tasks, serving as bomber escort, fighter-bomber, day, night, all-weather fighter, ground-attack aircraft, and aerial reconnaissance aircraft. It was one of the most advanced fighters when it first appeared, being furnished with an all-metal monocoque construction, a closed canopy, retractable landing gear, and powered by a liquid-cooled, inverted-V12 aero engine. First flown on 29 May 1935, the ME 109 entered operational service during 1937; it first saw combat during the Spanish Civil War. During the Second World War, the ME 109 was supplied to several states and was present in quantity on virtually every front in the European theatre; the fighter was still in service at the end of the conflict in 1945.[3] It continued to be operated by several countries for many years after the conflict. The ME 109 is the most produced fighter aircraft in history, a total of 34,248 airframes having been produced between 1936 and April 1945. Some of the ME 109 production took place in Nazi concentration camps through slave labor.",
+        "imageName": "me109meserschmitt"
+    },
+    {
+        "id": "jj32jj887hhg99",
+        "name": "Mitsubishi A6M Zero",
+        "description": "The Mitsubishi A6M Zero is a long-range carrier-capable fighter aircraft that was manufactured by Mitsubishi Aircraft Company, which was part of Mitsubishi Heavy Industries. It was operated by the Imperial Japanese Navy (IJN) from 1940 to 1945. The A6M was designated as the Mitsubishi Navy Type 0 carrier fighter (零式艦上戦闘機, rei-shiki-kanjō-sentōki), or the Mitsubishi A6M Rei-sen. The A6M was usually referred to by its pilots as the Reisen (零戦, zero fighter), 0 being the last digit of the imperial year 2600 (1940) when it entered service with the IJN. The official Allied reporting name was Zeke, although the name Zero was used more commonly.",
+        "imageName": "mitsubishi_a6m_zero"
+    }
+]
