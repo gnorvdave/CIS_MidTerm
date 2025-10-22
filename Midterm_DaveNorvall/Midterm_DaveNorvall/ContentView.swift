@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import UIKit
 //let subject = Bundle.main.decode([Subject].self, from: "data.json")
 
 struct LandDetail: View {
@@ -50,7 +51,7 @@ struct landDetailView: View {
                     .padding(.trailing, 50)
             }
         }
-        .navigationTitle(subject.name)
+        .navigationTitle(subject.name).multilineTextAlignment(.leading)
     }
 }
 
@@ -102,17 +103,20 @@ struct airDetailView: View {
 
 struct ContentView: View {
     var body: some View {
-        NavigationView {
-            List {
-                NavigationLink(destination: AirDetail()) {
-                    Text("Air").font(.largeTitle).foregroundColor(.blue).fontWeight(.bold)
-                }
-                NavigationLink(destination: LandDetail()) {
-                    Text("Land").font(.largeTitle).foregroundColor(.blue).fontWeight(.bold)
+        NavigationStack {
+            NavigationView {
+                List {
+                    NavigationLink(destination: AirDetail()) {
+                        Text("Air").font(.largeTitle).foregroundColor(.blue).fontWeight(.bold)
+                    }
+                    NavigationLink(destination: LandDetail()) {
+                        Text("Land").font(.largeTitle).foregroundColor(.blue).fontWeight(.bold)
+                    }
+                    
                 }
                 
+                .navigationTitle("WWII M/C  Dave Norvall")
             }
-            .navigationTitle("WWII War Machines").frame(maxWidth: .infinity, alignment: .center).underline()
         }
     }
 }
